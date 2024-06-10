@@ -1,4 +1,6 @@
 #version 2
+#added deposit and withdraw and edit error handling 
+
 import random
 import time
 
